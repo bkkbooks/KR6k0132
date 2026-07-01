@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6k0132/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0132/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分比丘戒本疏
+  identifiers:
+    krp: KR6k0132
+    cbeta: T40n1807
+    cbeta_old_id: T40n1807
+    authorityid: CA0002777
+    json_key: T1807
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1807.xml
+    old_id: T40n1807
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0132_000-T.yaml, hash: 'sha256:b8f844cdac5bf89e786113cfd62b98b3acbe15aaa292c493c37de94722f53a4a'}
+  - {seq: 1, filename: KR6k0132_001-T.yaml, hash: 'sha256:5ee15a7ad4f409cdeca66b71fabdb5c0a0db0cdf647d3687e0f0b8fd25012f61'}
+  - {seq: 2, filename: KR6k0132_002-T.yaml, hash: 'sha256:3a09a146a163e338ac45bc0370f7318b3eee8afdfed6f9df3fd5c60c4510a105'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0132_000-T.markers.yaml, hash: 'sha256:44d8019ed2c65749804247aa29ee20bc2415bf9e6b67e10baeaa1883e7d9f4ec'}
+  - {seq: 1, role: markers, filename: assets/KR6k0132_001-T.markers.yaml, hash: 'sha256:6afddd3c4cf935bee84cf4b2c512d85f2ec2858e7534dc15b05f4613ef73f1e1'}
+  - {seq: 2, role: markers, filename: assets/KR6k0132_002-T.markers.yaml, hash: 'sha256:e6ad7bd3f658cb76fac545fc1739748d1a7acb349130c38597dff665bb0a4e84'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0132_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 19186
+  label: 四分比丘戒本疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0132_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 23301
+  label: 四分比丘戒本疏卷下
+  type: juan
+  level: 1
+hash: sha256:903544c3a55d8b246e49d97055551bb1bcd9547a40e6269f3eeea387ab4638c9

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0132/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分比丘戒本疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1807.xml
+    old_id: T40n1807
+hash: sha256:b8f844cdac5bf89e786113cfd62b98b3acbe15aaa292c493c37de94722f53a4a
